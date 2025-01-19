@@ -1,7 +1,8 @@
 ### 👋😃 Hi there, I'm Louis!
 
-- 💪 I am a full-stack developer specializing in building web applications using the MERN stack and CMS systems with Java Spring Boot.
+- 💪 I am a full-stack developer specializing in building web applications using the MERN stack, and CMS systems with Java Spring Boot.
 - 🌱 I am currently learning how to develop applications with React Native.
+- ⚡ I am currently learning about AIGC services and related backend architecture.
 - 👯 I am eager to collaborate on exciting projects!
 - 📫 How to reach me: [louiscch314@gmail.com](louiscch314@gmail.com)
 <!--
