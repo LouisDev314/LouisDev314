@@ -1,8 +1,9 @@
 ### 👋😃 Hi there, I'm Louis!
 
-- 💪 I am a full-stack developer specializing in building web applications using the MERN stack.
-- 🌱 Mobile applications with React Native.
-- ⚡ CMS systems with Java Spring Boot.
+- ⚡ Currently Co-Founder & Founding Fullstack Engineer at [PopBox Studio](https://popboxstudio.com/), a tailored e-commerce startup for trendy items and anime merchandise.
+- 💪 I am a full-stack developer specializing in building web/mobile applications using the MERN stack/PostgreSQL with TypeScript.
+- :video_game: Game Design major graduated from Georgia Institute of Technology (Georgia Tech).
+- 🌱 Lead Gameplay Programmer/Gameplay Designer at Microsoft Xbox Summer Camp in 2022.
 - 👯 I am eager to collaborate on exciting projects!
 - 📫 How to reach me: [louiscch314@gmail.com](louiscch314@gmail.com)
 <!--
