@@ -1,19 +1,8 @@
 ### 👋😃 Hi there, I'm Louis!
 
-- ⚡ Currently Co-Founder & Founding Fullstack Engineer at [PopBox Studio](https://popboxstudio.com/), a tailored e-commerce startup for trendy items and anime merchandise.
-- 💪 I am a full-stack developer specializing in building web/mobile applications using the MERN stack/PostgreSQL with TypeScript.
-- :video_game: Game Design major graduated from Georgia Institute of Technology (Georgia Tech).
-- 🌱 Lead Gameplay Programmer/Gameplay Designer at Microsoft Xbox Summer Camp in 2022.
-- 👯 I am eager to collaborate on exciting projects!
-- 📫 How to reach me: [louiscch314@gmail.com](louiscch314@gmail.com)
-<!--
-**LouisDev314/LouisDev314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on indie game projects
-- 🌱 I’m currently learning Unity
-- 👯 I’m looking to collaborate on any game projects
-- 📫 How to reach me: [louiscch314@gmail.com](louiscch314@gmail.com)
-- ⚡ Fun fact: ...
--->
+- ⚡ Co-Founder & Founding Fullstack Engineer at [PopBox Studio](linkedin.com/company/popbox-studio), specializing in tailored e-commerce solutions for trendy and anime merchandise.
+- 💻 Full-stack developer proficient in MERN stack and PostgreSQL with TypeScript, focused on building scalable web and mobile applications.
+- 🎓 Game Design graduate from Georgia Institute of Technology (Georgia Tech).
+- 🎮 Former Lead Gameplay Programmer & Designer, Microsoft Xbox Summer Camp 2022.
+- 🤝 Open to collaboration on innovative projects — let’s build something great together!
+- 📫 Reach me at: [louiscch314@gmail.com](louiscch314@gmail.com)
