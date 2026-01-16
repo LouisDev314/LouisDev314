@@ -16,9 +16,3 @@
 - **DevOps:** Docker, GitHub Actions, AWS
 - **State Management:** Zustand, Tanstack Query
 - **Others:** Redis, Stripe, MMKV Secure Storage
-
----
-
-### Let's Connect  
-I’m eager to collaborate on exciting projects! Feel free to reach out at:  
-[https://www.linkedin.com/in/lcch/](https://www.linkedin.com/in/lcch/)
