@@ -10,10 +10,10 @@
 ---
 
 ### Technologies & Tools  
-- **Languages:** TypeScript, JavaScript, Java
-- **Frontend:** React, React Native, Expo, Solid.js
-- **Backend:** Node.js, Express, PostgreSQL, MongoDB, SpringBoot
-- **DevOps:** Docker, GitHub Actions, Render
+- **Languages:** TypeScript, JavaScript, Java, Python
+- **Frontend:** React.js, Next.js, React Native/Expo, Solid.js
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB, SpringBoot, FastAPI
+- **DevOps:** Docker, GitHub Actions, AWS
 - **State Management:** Zustand, Tanstack Query
 - **Others:** Redis, Stripe, MMKV Secure Storage
 
