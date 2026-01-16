@@ -19,12 +19,6 @@
 
 ---
 
-### Featured Projects  
-- [PopBox Studio E-commerce Mobile App (pinned repos)](https://github.com/LouisDev314/) — Fullstack e-commerce platform tailored for anime-inspired merchandise, built with React Native, Node.js, Redis, and MongoDB. 
-- [Gameplay Programming Demos](https://louiscch314.wixsite.com/website) — Interactive gameplay mechanics prototypes from Georgia Tech and Xbox Summer Camp experience.
-
----
-
 ### Let's Connect  
 I’m eager to collaborate on exciting projects! Feel free to reach out at:  
 [https://www.linkedin.com/in/lcch/](https://www.linkedin.com/in/lcch/)
