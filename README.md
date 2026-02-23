@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Louis
-
 I build **scalable products at the intersection of full-stack engineering, AI, and system design**.
 
 - 🌐 Portfolio: https://www.louisdev314.com  
