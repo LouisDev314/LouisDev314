@@ -16,8 +16,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;AI-integrated+Systems;Product+Builder;Clean+Architecture+%E2%86%92+Scalable+Systems" />
 </p>
 
----
-
 ## 🚀 About
 
 I design and build **scalable systems** — combining full-stack engineering, data workflows, and AI to turn ideas into real products.
@@ -30,8 +28,6 @@ I design and build **scalable systems** — combining full-stack engineering, da
 
 I care about **architecture, performance, and products that actually scale.**
 
----
-
 ## 🧩 Selected Work
 
 **PopBox Platform**  
@@ -42,8 +38,6 @@ WebGL-based globe with real-time animation and data-driven arcs
 
 **AI-Enhanced Product Workflows**  
 LLM-powered pipelines for structured data extraction, validation, and automation  
-
----
 
 ## ⚙️ Stack
 
@@ -62,24 +56,11 @@ LLM integrations · structured outputs · validation
 RAG-style workflows · data pipelines  
 Stripe · authentication · real-time systems  
 
----
-
-## 📊 Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LouisDev314&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LouisDev314&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Open To
 
 - AI / Full-Stack Engineering roles  
 - Building impactful, scalable products  
 - Collaborating on ambitious ideas  
-
----
 
 <p align="center">
   <i>“Technology is not just about building features — it's about designing systems that scale ideas.”</i>
