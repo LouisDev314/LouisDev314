@@ -1,63 +1,86 @@
-# 👋 Hi, I'm Louis
-I build **scalable products at the intersection of full-stack engineering, AI, and system design**.
+<!-- Header -->
+<h1 align="center">Louis Chan</h1>
 
-- 🌐 Portfolio: https://www.louisdev314.com  
-- 📫 Contact: louiscch314@gmail.com  
+<p align="center">
+  Building systems where <b>full-stack engineering meets AI</b><br/>
+  <i>From idea → system → scale</i>
+</p>
 
----
+<p align="center">
+  <a href="https://www.louisdev314.com">Portfolio</a> ·
+  <a href="mailto:louiscch314@gmail.com">Email</a> ·
+  <a href="https://github.com/LouisDev314">GitHub</a>
+</p>
 
-## 🚀 About Me
-
-- 🧠 Full-stack engineer focused on **building real-world systems**, not just features  
-- ⚡ Co-Founder & Founding Engineer at **PopBox Studio** — shipping e-commerce platforms with modern architectures  
-- 🤖 Exploring **AI-integrated applications** (LLMs, structured outputs, automation workflows)  
-- 🎮 Former Lead Gameplay Programmer, **Microsoft Xbox Summer Camp 2022**  
-- 🎓 Game Design graduate from **Georgia Tech**
-
-I care about **clean architecture, performance, and building products that actually scale**.
-
----
-
-## 🔧 What I Work With
-
-### Core
-- **TypeScript**, JavaScript, Python, Java  
-- **React, Next.js, React Native, Solid.js**  
-- **Node.js, Express, FastAPI, Spring Boot**  
-
-### Data & Infrastructure
-- PostgreSQL, MongoDB, Redis  
-- Docker, AWS, GitHub Actions  
-- ETL pipelines, API design, distributed systems  
-
-### Product & AI
-- LLM integrations (structured outputs, validation, automation)  
-- RAG-style workflows & data pipelines  
-- Stripe, authentication, real-time systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;AI-integrated+Systems;Product+Builder;Clean+Architecture+%E2%86%92+Scalable+Systems" />
+</p>
 
 ---
 
-## 🧩 What I'm Building
+## 🚀 About
 
-- AI-enhanced web applications  
-- Scalable full-stack systems with strong data flows  
-- Developer-focused tools and interactive experiences  
+I design and build **scalable systems** — combining full-stack engineering, data workflows, and AI to turn ideas into real products.
+
+- 🧠 Engineer focused on **systems, not just features**
+- ⚡ Co-Founder & Founding Engineer at **PopBox Studio**
+- 🤖 Building **AI-integrated applications** (LLMs, structured outputs, automation)
+- 🎮 Former Lead Gameplay Programmer, **Microsoft Xbox Summer Camp**
+- 🎓 Game Design, **Georgia Tech**
+
+I care about **architecture, performance, and products that actually scale.**
 
 ---
 
-## 🤝 Open to
+## 🧩 Selected Work
 
-- AI / full-stack engineering roles  
-- Building impactful products  
+**PopBox Platform**  
+Full-stack e-commerce system with payments, authentication, and AI-assisted content workflows  
+
+**Interactive Globe Visualization**  
+WebGL-based globe with real-time animation and data-driven arcs  
+
+**AI-Enhanced Product Workflows**  
+LLM-powered pipelines for structured data extraction, validation, and automation  
+
+---
+
+## ⚙️ Stack
+
+**Core**  
+TypeScript · JavaScript · Python · Java  
+React · Next.js · React Native · Solid.js  
+Node.js · Express · FastAPI · Spring Boot  
+
+**Data & Infra**  
+PostgreSQL · MongoDB · Redis  
+Docker · AWS · GitHub Actions  
+API design · ETL pipelines · distributed systems  
+
+**AI & Product**  
+LLM integrations · structured outputs · validation  
+RAG-style workflows · data pipelines  
+Stripe · authentication · real-time systems  
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LouisDev314&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LouisDev314&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Open To
+
+- AI / Full-Stack Engineering roles  
+- Building impactful, scalable products  
 - Collaborating on ambitious ideas  
 
 ---
 
-## ⭐ Featured Projects
-- AI-powered e-commerce automation platform
-- Interactive globe visualization system
-- High-performance animated UI components
-
----
-
-> “Technology is not just about building features — it's about designing systems that scale ideas.”
+<p align="center">
+  <i>“Technology is not just about building features — it's about designing systems that scale ideas.”</i>
+</p>
