@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;AI-integrated+Systems;Product+Builder;Clean+Architecture+%E2%86%92+Scalable+Systems" />
 </p>
+
 ## 🚀 About
 
 I design and build **scalable systems** — combining full-stack engineering, data workflows, and AI to turn ideas into real products.
