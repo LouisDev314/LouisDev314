@@ -64,10 +64,7 @@ Stripe · authentication · real-time systems
 
 <p align="center">
   <i>
-    “Building at the edge of possibility — where ideas become systems, and systems shape what’s next.”
+    “Building at the edge of possibility, where ideas become systems and systems shape what’s next.
+    Each line of code moves the world forward — <b>sic itur ad astra</b>.”
   </i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SIC_ITUR_AD_ASTRA-F59E0B?style=for-the-badge&labelColor=111111" />
 </p>
