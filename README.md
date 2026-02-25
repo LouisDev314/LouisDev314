@@ -63,5 +63,5 @@ Stripe · authentication · real-time systems
 - Collaborating on ambitious ideas  
 
 <p align="center">
-  <i>“Technology is not just about building features — it's about designing systems that scale ideas.”</i>
+  <i>“Building at the edge of possibility, where ideas become systems and systems shape what’s next. Each line of code moves the world forward — sic itur ad astra.”</i>
 </p>
