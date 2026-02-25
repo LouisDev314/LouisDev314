@@ -63,5 +63,9 @@ Stripe · authentication · real-time systems
 - Collaborating on ambitious ideas  
 
 <p align="center">
-  <i>“Building at the edge of possibility, where ideas become systems and systems shape what’s next. Each line of code moves the world forward — sic itur ad astra.”</i>
+  <i>
+    “Building at the edge of possibility, where ideas become systems and systems shape what’s next.
+    Each line of code moves the world forward —
+    <span style="color:#f59e0b;"><b>sic itur ad astra</b></span>.”
+  </i>
 </p>
