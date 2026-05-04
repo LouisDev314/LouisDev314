@@ -1,70 +1,32 @@
-<!-- Header -->
-<h1 align="center">Louis Chan</h1>
+# Louis Chan
 
-<p align="center">
-  Building systems where <b>full-stack engineering meets AI</b><br/>
-  <i>From idea → system → scale</i>
-</p>
+Full-Stack Engineer (TypeScript / Next.js / Node.js)  
+Building production-grade systems with real-world impact
 
-<p align="center">
-  <a href="https://www.louisdev314.com">Portfolio</a> ·
-  <a href="mailto:louiscch314@gmail.com">Email</a> ·
-  <a href="https://github.com/LouisDev314">GitHub</a>
-</p>
+## 🔗 Links
+- Portfolio: https://www.louisdev314.com  
+- Email: louiscch314@gmail.com  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+Engineer;AI-integrated+Systems;Product+Builder;Clean+Architecture+%E2%86%92+Scalable+Systems" />
-</p>
+## 🚀 Projects
+**PopBox Studio — E-commerce Platform**  
+https://popboxstudio.com/  
+Production e-commerce system with Stripe payments, concurrency-safe inventory, and scalable full-stack architecture  
 
-## 🚀 About
+**Paper Bridge — AI Web App**  
+https://paper-bridge.vercel.app/  
+AI-powered application for structured data processing, automation, and workflow acceleration  
 
-I design and build **scalable systems** — combining full-stack engineering, data workflows, and AI to turn ideas into real products.
+## 🧠 Skills
+- Frontend: React, Next.js, TypeScript  
+- Backend: Node.js, Express, REST APIs  
+- Database: PostgreSQL, MongoDB  
+- Infrastructure: Docker, CI/CD  
+- Other: Stripe, system design, AI integrations  
 
-- 🧠 Engineer focused on **systems, not just features**
-- ⚡ Co-Founder & Founding Engineer at **PopBox Studio**
-- 🤖 Building **AI-integrated applications** (LLMs, structured outputs, automation)
-- 🎮 Former Lead Gameplay Programmer, **Microsoft Xbox Summer Camp**
-- 🎓 Game Design, **Georgia Tech**
-
-I care about **architecture, performance, and products that actually scale.**
-
-## 🧩 Selected Work
-
-**PopBox Platform**  
-Full-stack e-commerce system with payments, authentication, and AI-assisted content workflows  
-
-**Interactive Globe Visualization**  
-WebGL-based globe with real-time animation and data-driven arcs  
-
-**AI-Enhanced Product Workflows**  
-LLM-powered pipelines for structured data extraction, validation, and automation  
-
-## ⚙️ Stack
-
-**Core**  
-TypeScript · JavaScript · Python · Java  
-React · Next.js · React Native · Solid.js  
-Node.js · Express · FastAPI · Spring Boot  
-
-**Data & Infra**  
-PostgreSQL · MongoDB · Redis  
-Docker · AWS · GitHub Actions  
-API design · ETL pipelines · distributed systems  
-
-**AI & Product**  
-LLM integrations · structured outputs · validation  
-RAG-style workflows · data pipelines  
-Stripe · authentication · real-time systems  
+## 🎯 Focus
+- Scalable full-stack systems  
+- AI-integrated applications  
+- Production-ready architecture  
 
 ## 🤝 Open To
-
-- AI / Full-Stack Engineering roles  
-- Building impactful, scalable products  
-- Collaborating on ambitious ideas  
-
-<p align="center">
-  <i>
-    “Building at the edge of possibility, where ideas become systems and systems shape what’s next.
-    Each line of code moves the world forward — <b>sic itur ad astra</b>.”
-  </i>
-</p>
+Software Engineering roles (Full-Stack / Backend / AI)
